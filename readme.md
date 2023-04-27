@@ -23,3 +23,8 @@ Please obey all of them.
 
 ## 4. Currency
 - The Office's currency is an in-game currency, so it's obviously fake and it's only for game. So, do not purchase The Office's currency with real currency. We'll never created one of those. If you found one, report immediately.
+
+## 5. Company
+- The company we noted in the bot is all fake and doesn't actually exists. If you found some of the companies we note on the bot is real, please report immediately.
+
+All The Office's user have to accept all of the ToS.
