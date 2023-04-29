@@ -40,4 +40,4 @@ Please obey all of them.
 - Catches grammar mistakes 100 times below 1 day (24 hrs)
 - Helps to develop The Office
 
-By using on-topic commands in The Office bot, you've just accepted this Terms of Service
+By using a single on-topic command/clicking an interaction that's not yours in The Office bot, you've just accepted this Terms of Service
