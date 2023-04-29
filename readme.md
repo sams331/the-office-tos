@@ -20,12 +20,24 @@ Please obey all of them.
 - You use The Office bot by interacting with the avaliable The Office's interaction in a message. (mostly button)
 
 ## 4. Currency
-- The Office's currency is an in-game currency, so it's obviously fake and it's only for game. So, do not purchase The Office's currency with real currency. We'll never created one of those. If you found one, report immediately.
+- The Office's currency is an in-game currency, so it's obviously fake and it's only for game.
 - The Office bot is an economy bot, so it should have currency in it. The currency is not real, so do not act like it's real currency and you tryhard to get as much currency as possible.
-- The Office bot's currency is not real, so do not gamble it with real money. If you gamble it with The Office bot's currency **for fun**, it's allowed.
+- The Office bot's currency is not real.
 
 ## 5. Companies
 - The companies we noted in the bot is all fake and doesn't actually exists. If you found some of the companies we note on the bot is real, please report immediately.
 - If you found some of the companies things (name, role, etc...) were offensive, please report immediately
 
-All The Office's user have to accept all of the ToS.
+## We will give users restricted service usage if:
+- User doesn't follow Discord Terms of Service
+- User gambles for in-game currency with real money
+- User created a gamble site for in-game currency using real money
+- User use exploits to get as much in-game currency as possible
+- User does DDoS (Distributed Denial of Service) to the bot
+
+## We will give users more service usage if:
+- Catches bugs 100 times below 1 day (24 hrs)
+- Catches grammar mistakes 100 times below 1 day (24 hrs)
+- Helps to develop The Office
+
+By using on-topic commands in The Office bot, you've just accepted this Terms of Service
